@@ -30,10 +30,7 @@ Screenshot
 
 Future Improvements
 
-Mobile app with dose reminders
-Alerts to caregivers for missed doses
-Analytics on usage trends
-Battery optimisation for low-power operation
+Mobile app with dose reminders; Alerts to caregivers for missed doses; Analytics on usage trends; Battery optimisation for low-power operation
 
 Author
 
