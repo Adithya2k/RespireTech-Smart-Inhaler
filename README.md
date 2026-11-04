@@ -17,19 +17,11 @@ Cloud-based data handling for history and tracking
 
 Tech Stack
 
-Layer	                   Technology
-Microcontroller	          ESP32
-Firmware	                Arduino framework (C/C++)
-Messaging	                MQTT
-Cloud	                    AWS 
-Frontend                	Web dashboard (HTML, CSS, JavaScript)
+Microcontroller: ESP32Firmware ; Arduino framework:(C/C++) ; Messaging: MQTT ; Cloud : AWS ; Frontend : Web dashboard (HTML, CSS, JavaScript)
 
 Hardware Required
 
-ESP32 development board
-Sensor(s) for detecting inhaler use (DHT-22, MQ-22)
-Jumper wires and breadboard
-USB cable and power source
+ESP32 development board; Sensor(s) for detecting inhaler use (DHT-22, MQ-22); Jumper wires and breadboard; USB cable and power source
 
 Screenshot
 
